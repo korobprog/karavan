@@ -2215,22 +2215,11 @@ textarea {
 
 
 .button-donate {
-  border: 1px transparent;
-  -webkit-border-radius: 25px;
-  border-radius: 25px;
-  color: #eeeeee;
-  cursor: pointer;
-  display: inline-block;
-  font-family: Arial;
-  font-size: 15px;
-  padding: 8px 30px;
-  text-align: center;
-  text-decoration: none;
-  margin-left: 15px;
-  -webkit-animation: glowing 1300ms infinite;
-  -moz-animation: glowing 1300ms infinite;
-  -o-animation: glowing 1300ms infinite;
-  animation: glowing 1300ms infinite;
+  font-size: 20px;
+  -webkit-animation: glowing 2300ms infinite;
+  -moz-animation: glowing 2300ms infinite;
+  -o-animation: glowing 2300ms infinite;
+  animation: glowing 2300ms infinite;
 }
 
 @-webkit-keyframes glowing {
