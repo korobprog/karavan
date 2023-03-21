@@ -1816,22 +1816,53 @@ textarea {
   
 /* Portrait tablets and small desktops */
 @media (min-width: 768px) and (max-width: 991px) {
+  iframe {
+    margin: 0 auto;
+    width: 768px;
+    height: 991px;
+  }
   
+  iframe {
+    display: block;
+    border-style:none;
+  }
 }
   
 /* Landscape phones and portrait tablets */
 @media (max-width: 767px) {
+  iframe {
+    margin: 0 auto;
+    width: 767px;
+    height: 990px;
+  }
   
+  iframe {
+    display: block;
+    border-style:none;
+  }
 }
   
 /* Landscape phones and smaller */
 @media (max-width: 480px) {
+  iframe {
+    margin: 0 auto;
+    width: 480px;
+    height: 480px;
+  }
   
+  iframe {
+    display: block;
+    border-style:none;
+  }
 }
   
 /* Small phones */
 @media (max-width: 320px) {
-  
+  iframe {
+    margin: 0 auto;
+    width: 320px;
+    height: 320px;
+  }
 } 
 
 /*# sourceMappingURL=style.css.map */
