@@ -39,6 +39,7 @@ timer = setInterval(function () {
 		iframe.setAttribute('src', 'https://kinescope.io/embed/203162370');
 		iframe.setAttribute('allow', 'autoplay; fullscreen; picture-in-picture; encrypted-media;');
 		iframe.setAttribute('allowfullscreen');
+		iframe.setAttribute('class', 'col-md-8 col-md-offset-2');
 
 	} else { // Иначе
 		// Получаем время зависимую от разницы
