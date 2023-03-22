@@ -231,7 +231,7 @@
 		
 	  	$('#fh5co-slider-wrwap .flexslider').flexslider({
 			animation: "fade",
-			slideshowSpeed: 5000,
+			slideshowSpeed: 15000,
 			directionNav: true,
 			start: function(){
 				setTimeout(function(){
