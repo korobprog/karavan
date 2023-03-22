@@ -36,10 +36,11 @@ timer = setInterval(function () {
 		clearInterval(timer);
 		// Выводим сообщение об окончание
 		iframe.className = "premiere";
-		iframe.setAttribute('src', 'https://kinescope.io/embed/203162370');
+		iframe.setAttribute('src', 'https://kinescope.io/embed/203162821');
 		iframe.setAttribute('allow', 'autoplay; fullscreen; picture-in-picture; encrypted-media;');
 		iframe.setAttribute('allowfullscreen');
 		iframe.setAttribute('class', 'col-md-8 col-md-offset-2');
+		iframe.setAttribute('style', '');
 
 	} else { // Иначе
 		// Получаем время зависимую от разницы
