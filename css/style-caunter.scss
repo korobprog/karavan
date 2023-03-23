@@ -1,0 +1,36 @@
+.flipdown__theme-max {
+    font-family: "Roboto";
+    width: 550px;
+    height: 370px;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    ;
+}
+
+.flipdown__theme-max .flipdown {
+    margin: auto;
+    text-align: center;
+}
+
+.flipdown__theme-max h1 {
+    text-align: center;
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.flipdown__theme-max h2 {
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.flipdown.flipdown__theme-dark .rotor-group-heading:before {
+    color: #fff;
+}
