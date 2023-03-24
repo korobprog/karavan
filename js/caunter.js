@@ -5,6 +5,6 @@ document.addEventListener('DOMContentLoaded', () => {
         theme: "light"
     }).start()
         .ifEnded(() => {
-            document.querySelector('.flipdown').innerHTML = `<h1>ОСТАЛОСЬ ДО ПОКАЗА ФИЛЬМА</h1>`;
+            document.querySelector('.flipdown').innerHTML = `<h1 style="font-family: Intro;  color: #ffffff;"> ОСТАЛОСЬ ДО ПОКАЗА ФИЛЬМА</h1> >ОСТАЛОСЬ ДО ПОКАЗА ФИЛЬМА</h1>`;
         })
 });

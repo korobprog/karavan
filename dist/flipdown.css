@@ -5,6 +5,7 @@
 .flipdown.flipdown__theme-dark {
   font-family: sans-serif;
   font-weight: bold;
+
 }
 /* Rotor group headings */
 .flipdown.flipdown__theme-dark .rotor-group-heading:before {
@@ -38,6 +39,9 @@
 .flipdown.flipdown__theme-light {
   font-family: sans-serif;
   font-weight: bold;
+  margin-left: 50px;
+  margin-right: auto;
+  width: 600px;
 }
 /* Rotor group headings */
 .flipdown.flipdown__theme-light .rotor-group-heading:before {

@@ -6,6 +6,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Intro';
+  src: local('Intro'), url('fonts\castom\intro\intro.woff2') format('woff2'), url('fonts\castom\intro\intro.woff') format('woff'), url('fonts\castom\intro\intro.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
 /* =======================================================
 *
 * 	Template Style 
