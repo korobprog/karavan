@@ -1,4 +1,4 @@
-// Берём элемент для вывода таймера
+/* // Берём элемент для вывода таймера
 let timer_show = document.getElementById("timer");
 
 // Берем фрейм с фильмом 
@@ -51,4 +51,4 @@ timer = setInterval(function () {
 		// Выводим время
 		timer_show.innerHTML = str_timer;
 	}
-}, 1000)
+}, 1000) */

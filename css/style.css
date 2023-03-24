@@ -1,9 +1,3 @@
-
-.element-flipdown {
-  display: flex;
-  justify-content: center;
-}
-
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -17,6 +11,11 @@
   src: local('Intro'), url('fonts\castom\intro\intro.woff2') format('woff2'), url('fonts\castom\intro\intro.woff') format('woff'), url('fonts\castom\intro\intro.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
+}
+
+.element-flipdown {
+  display: flex;
+  justify-content: center;
 }
 
 /* =======================================================
