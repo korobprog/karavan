@@ -20,7 +20,9 @@
     "url": "https://github.com/PButcher/flipdown/issues"
   },
   "homepage": "https://github.com/PButcher/flipdown#readme",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap-icons": "^1.10.3"
+  },
   "devDependencies": {
     "@babel/cli": "^7.1.0",
     "@babel/core": "^7.1.0",
