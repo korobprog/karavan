@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    let timer_ = 1680026400
+    let timer_ = 1681516814 //https://www.epochconverter.com/
     new FlipDown(timer_, {
         headings: ["ДНИ", "ЧАСЫ", "МИНУТЫ", "СЕКУНДЫ"],
         theme: "max"
