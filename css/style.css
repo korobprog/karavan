@@ -2370,3 +2370,15 @@ svg {
     margin: 0px 30px 30px 30px;
   }
 }
+
+.rotator__case {
+  display: none;
+}
+
+.rotator__case_active {
+  display: inline;
+}
+
+.bg-gradient img {
+  opacity: 0.7;
+}
