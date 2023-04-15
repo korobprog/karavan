@@ -8,3 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
             document.querySelector('.flipdown').innerHTML = `<iframe src="https://kinescope.io/embed/203353776" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; encrypted-media;" allowfullscreen></iframe>`;
         })
 });
+
+{/* <div>
+<div id="flipdown" class="flipdown"></div>
+</div> */}
